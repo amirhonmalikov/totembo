@@ -281,11 +281,11 @@ header {
 }
 
 .news_item-left {
-  background: url(../img/news_item-left.png) no-repeat center /cover;
+  background: url(../img/news_item-left.png) no-repeat center/cover;
 }
 
 .news_item-right {
-  background: url(../img/news_item-right.png) no-repeat center /cover;
+  background: url(../img/news_item-right.png) no-repeat center/cover;
 }
 
 .news_advice {
